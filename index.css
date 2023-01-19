@@ -89,3 +89,12 @@ img#headerlogo{
     margin-left: auto;
     margin-right: auto;
 }
+.body-bck img{
+    position: relative;
+    width: 800px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    display: flex;
+}
